@@ -1,13 +1,12 @@
-//java program of hello world 
-/*public class First{
+java program of hello world 
+public class First{
     public static void main(String[] args){
         System.out.print("Hello World");
     }
 }
-*/
 
-//five friends 
-/*
+
+Java program of five friends 
 public class First{
     public static void main(String [] args){
         System.out.print("Divya");
@@ -17,9 +16,9 @@ public class First{
         System.out.print("Rekha");
     }
 }
-*/
-//five fav food name :new line
-/*
+
+
+Java program of five fav food name :new line
 public class First{
     public static void main(String[] args){
         System.out.println("Pizza");
@@ -29,10 +28,8 @@ public class First{
         System.out.println("Chole Bhature");
     }
 }
-*/
 
-//five city name :new line 
-/*
+Java program of five city name :new line 
 public class First{
     public static void main(String[] args){
         System.out.println("Jaipur");
@@ -43,7 +40,6 @@ public class First{
 
     }
 }
-*/
 
 what is java ?
 Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
